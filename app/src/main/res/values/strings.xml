@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Share Text as Image</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="header_text">Application Name</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="title_label">Share Text as Images</string>
+    <string name="shareText">Share</string>
+    <string name="words">Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+</resources>
+
